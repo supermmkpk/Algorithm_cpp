@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/bongkyoonpark/Library/Mobile Documents/com~apple~CloudDocs/코딩테스트 C++/study/source" -B "/Users/bongkyoonpark/Library/Mobile Documents/com~apple~CloudDocs/코딩테스트 C++/study/source/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/bongkyoonpark/Library/Mobile Documents/com~apple~CloudDocs/코딩테스트 C++/study/source/cmake-build-debug

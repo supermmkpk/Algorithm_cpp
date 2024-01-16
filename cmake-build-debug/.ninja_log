@@ -1,0 +1,17 @@
+# ninja log v5
+6	514	1695647266860924073	CMakeFiles/source.dir/1D_10988.cpp.o	a8f6b4e998e0663e
+7	708	1697124292894917943	CMakeFiles/source.dir/1/split.cpp.o	9fa87d5b0dbe3efb
+0	313	1695633219726396223	CMakeFiles/source.dir/main.cpp.o	7c960bbfcd3370fb
+316	677	1695633220092538939	CMakeFiles/source.dir/ArrayToPointerDecay.cpp.o	fab03f6f556a7e01
+6	581	1695647266929094053	CMakeFiles/source.dir/1B_10808.cpp.o	290021f5997a2ee6
+1	506	1695633219921516441	CMakeFiles/source.dir/split.cpp.o	cdc1213758d00ab7
+1	478	1695633219888911837	CMakeFiles/source.dir/pointer.cpp.o	b9be00463a5194c6
+6	559	1695647266906777594	CMakeFiles/source.dir/1A_2309.cpp.o	e3e92ca28e198fee
+6	580	1695647266927964824	CMakeFiles/source.dir/중복요소제거.cpp.o	cc57b1399a06d8e3
+8	626	1697124292812205474	CMakeFiles/source.dir/1/ArrayToPointerDecay.cpp.o	44c6a04cdc780601
+6	516	1695647266863176906	CMakeFiles/source.dir/1C_2979.cpp.o	4e7de10c02d39198
+0	489	1695633219903744312	CMakeFiles/source.dir/permutationRecur.cpp.o	e0aaa28da78027f
+8	666	1697124292852124828	CMakeFiles/source.dir/1/역참조.cpp.o	1e67b9f50b57e5c
+8	674	1697124292860271316	CMakeFiles/source.dir/1/pointer.cpp.o	45e6102a6c9e8211
+1	497	1695633219912781853	CMakeFiles/source.dir/역참조.cpp.o	a55ba59128796474
+7	685	1697124292871344065	CMakeFiles/source.dir/1/permutationRecur.cpp.o	f2d06a2825238261
