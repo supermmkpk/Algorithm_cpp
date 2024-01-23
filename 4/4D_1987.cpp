@@ -35,7 +35,6 @@ void go(int sy, int sx, int status, int cnt) {
             //++cnt 하면 for문 더 도는 경우 cnt가 오염된 상태로 진행됨!! 즉, 1이 더해진 오염된 상태로 진행됨...
         }
     }
-    return;
 }
 
 int main(void) {
