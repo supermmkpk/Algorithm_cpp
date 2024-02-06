@@ -46,11 +46,12 @@ int main(void) {
     for(auto eachV : v) {
         ret += eachV.second;
         pq.push(eachV.second);
-        if(pq.size() > eachV.first) {
+        if (pq.size() > eachV.first) {
             ret -= pq.top(); //최소 빼 버리기
             pq.pop();
         }
     }
+
     cout << ret <<'\n'; //출력
 
     return 0;
